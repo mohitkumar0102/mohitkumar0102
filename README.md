@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitkumar0102
+- 👋 Hi, I’m Mohit
 - 👀 I’m interested in learning front end develpoment
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Project involving HTML and CSS
